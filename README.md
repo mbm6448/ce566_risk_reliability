@@ -1,5 +1,8 @@
 # Uncertainty and Reliability in Civil Engineering
 
+[![DOI](https://zenodo.org/badge/488714931.svg)](https://zenodo.org/badge/latestdoi/488714931)
+
+
 This repo stores the code and data for the course project of CE566 taught at Penn State by Dr. Kostas Papakonstantinuo
 
 If you use this repo please cite as:
